@@ -12,7 +12,7 @@ L'objectif est de capturer :
 
 ##  Architecture globale
 
-![Architecture](architecture.png)
+![Architecture](archi.PNG)
 
 ---
 
