@@ -10,13 +10,6 @@ Original file is located at
 !pip uninstall -y tensorboard protobuf
 !pip install protobuf==3.20.3 tensorboard==2.13.0
 
-# ============================================
-# CTR MODEL - ARCHITECTURE EXACTE
-# [Embeddings] → [Transformer] → [Concat avec features] → [DCNv2 + DNN parallèle] → [MLP final]
-#                     │
-#                     └─→ [Sequence + Target] dans Transformer
-# ============================================
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
