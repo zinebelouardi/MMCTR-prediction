@@ -13,7 +13,7 @@ L'objectif est de capturer :
 
 ##  Architecture globale
 
-![Architecture](archi.PNG)
+![Architecture](images/archi.PNG)
 
 ---
 
@@ -122,6 +122,6 @@ Concaténation de :
 ---
 ##  Résultats
 
-![Logo du projet](score.PNG)
+![Logo du projet](images/Capture.PNG)
 
 
