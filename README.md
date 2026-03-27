@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0d68dc3243fe9ca74dedf110ea757b530f80f3fc
 #  Multimodal CTR Prediction System
 
 ## 📌 Overview
@@ -123,6 +126,7 @@ Concaténation de :
 ##  Résultats
 
 ![Logo du projet](score.PNG)
+<<<<<<< HEAD
 =======
 ## References
 
@@ -220,3 +224,5 @@ We believe that additional tuning and scaling would likely lead to further perfo
 
 ![result](media/result.png)
 >>>>>>> 3ff8691 (Correction du bug dans visualiser)
+=======
+>>>>>>> 0d68dc3243fe9ca74dedf110ea757b530f80f3fc
