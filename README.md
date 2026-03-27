@@ -1,7 +1,7 @@
 
 #  Multimodal CTR Prediction System
 
-## 📌 Overview
+##  Overview
 Ce projet propose une **architecture neuronale multimodale hiérarchique** pour la prédiction du **Click-Through Rate (CTR)**.
 
 L'objectif est de capturer :
@@ -108,16 +108,6 @@ Concaténation de :
 -  Feature crossing avancé (DCNv2)
 -  Fusion hybride (explicite + implicite)
 -  Pipeline end-to-end
-
----
-
-##  Technologies
-
-- PyTorch
-- Transformers
-- SigLIP
-- DCNv2
-- Deep Learning
 
 ---
 ##  Résultats
