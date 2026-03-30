@@ -112,6 +112,6 @@ Concaténation de :
 ---
 ##  Résultats
 
-![Logo du projet](images/Capture.PNG)
+![Logo du projet](images/score.PNG)
 
 
