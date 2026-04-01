@@ -94,13 +94,6 @@ Concaténation de :
 
 ---
 
-##  Output Task 2
-
--  CTR prediction (probabilité)
--  optimisation de la précision
-
----
-
 ---
 ##  Résultats
 
