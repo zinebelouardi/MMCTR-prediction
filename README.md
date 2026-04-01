@@ -101,14 +101,6 @@ Concaténation de :
 
 ---
 
-##  Points forts
-
--  Architecture multimodale (image + texte)
--  Modélisation séquentielle (Transformer)
--  Feature crossing avancé (DCNv2)
--  Fusion hybride (explicite + implicite)
--  Pipeline end-to-end
-
 ---
 ##  Résultats
 
