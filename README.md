@@ -93,8 +93,6 @@ Concaténation de :
 - Output : probabilité de clic
 
 ---
-
----
 ##  Résultats
 
 ![Logo du projet](images/score.PNG)
