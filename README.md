@@ -96,5 +96,4 @@ Concaténation de :
 ##  Résultats
 
 ![Logo du projet](images/score.PNG)
-![Logo du projet]([images/score.PNG](https://github.com/zinebelouardi/MMCTR-prediction/blob/b82092b7683310587c5682d98ec2d67d394f043f/images/score.PNG))
 
